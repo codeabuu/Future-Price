@@ -1,0 +1,2521 @@
+location,bedrooms,bathrooms,price,rate
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+,3,3, 78 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+,3,3, 78 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Near Valley Arcade, Lavington, Nairobi",3,3, 80 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,3,3, 78 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+,3,3, 78 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+,3,3, 78 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+,3,2, 45 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+,2,2, 75 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+,3,2, 45 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,3,2, 45 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+,3,3, 78 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+,3,3, 78 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+,3,2, 45 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+,2,2, 75 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Vihiga road, Kileleshwa, Nairobi",3,3, 100 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Off Othaya road, Lavington, Nairobi",3,3, 125 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+,3,2, 45 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+,3,2, 45 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
+"Jabavu court, Kilimani, Nairobi",3,3, 80 000,Per Month
+"Riverside Dr Nairobi, Riverside, Nairobi",3,3, 200 000,Per Month
+"Kileleshwa, Nairobi",3,4, 70 000,Per Month
+"Links Rd Mombasa, Nyali, Mombasa",3,2, 38 000,Per Month
+"Kileleshwa, Nairobi",1,1, 110 000,Per Month
+"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2, 57 750,Per Month
+"Kilimani, Nairobi",2,3, 65 000,Per Month
+,3,3, 78 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Nyali, Mombasa",1,1, 5 000,Per Day
+"Westlands, Nairobi",4,2, 165 000,Per Month
+"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3, 55 000,Per Month
+"Shanzu, Mombasa",1,1, 55 000,Per Month
+"Westlands downtown, Westlands, Nairobi",2,2, 75 000,Per Month
+,2,2, 75 000,Per Month
+"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2, 55 000,Per Month
+"Kilimani, Nairobi",3,3, 75 000,Per Month
+,3,2, 45 000,Per Month
+"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3, 65 000,Per Month
+"Muthaiga, Nairobi",4,5, 300 000,Per Month
+"Westlands, Nairobi",2,2, 100 000,Per Month
